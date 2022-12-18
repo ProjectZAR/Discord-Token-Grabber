@@ -71,4 +71,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-os.system("echo You got Fucked! hahahah")
+print("You got Fucked! hahahaha")
